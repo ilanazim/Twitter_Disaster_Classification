@@ -1,6 +1,8 @@
 # Twitter_Disaster_Classification
 Classify Tweets using various NLP techniques from simple SVC and Logisitic Regression to BERT
 
+Take a look at my notebook [here](https://github.com/ilanazim/Twitter_Disaster_Classification/blob/master/disaster_classification_colab.ipynb)!
+
 ## Kaggle Competition: 
 [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)
 
